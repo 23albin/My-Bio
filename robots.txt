@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://23albin.github.io/My-Bio/sitemap.xml
